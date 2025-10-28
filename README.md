@@ -2,9 +2,7 @@
 Diabetes prediction using Logistic Regression | Python | Scikit-learn | ML Classification
 
 
-Technologies Used:
-Python
-Pandas, NumPy – for data manipulation
+Technologies Used : Python , Pandas, NumPy – for data manipulation
 Matplotlib, Seaborn – for data visualization
 Scikit-learn – for model building and evaluation
 
